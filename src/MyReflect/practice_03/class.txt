@@ -1,2 +1,0 @@
-className=MyReflect.practice_03.Teacher
-methodName=teach
