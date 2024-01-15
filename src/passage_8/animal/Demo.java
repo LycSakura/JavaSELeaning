@@ -1,12 +1,6 @@
-package passage_8;
+package passage_8.animal;
 
-/*猫吃鱼，狗吃肉*/
-class Animal {
-    void eat() {
-    }
-}
-
-class Demo {
+public class Demo {
     public static void main(String[] args) {
         Animal maomao = new Animal() {
             void eat() {
